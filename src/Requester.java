@@ -2,6 +2,7 @@ import java.io.*;
 import java.net.*;
 
 public class Requester {
+	// teste
 	Socket requestSocket;
 	ObjectOutputStream out;
  	ObjectInputStream in;
